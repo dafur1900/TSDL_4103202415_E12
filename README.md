@@ -18,7 +18,7 @@ Pruebas de regresión visual entre versiones de ghost (5)
 | FABP005 | Crar y/o administrar miembros | Valida que se pueda crear, eliminar, modificar miembros del blog  |
 
 # Esenarios incluidos para la prueba de regresión visual
-**TODO!!!!**
+[Versión anterior entrega semana 5]()
 
 # Análisis comparativo de las herramientas para regresión visual utilizadas ( ResembleJS, PixelMatch, BackstopJS)
 **TODO!!!!**
